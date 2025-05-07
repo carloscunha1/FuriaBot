@@ -115,7 +115,6 @@ def redes_sociais(call):
 @bot.message_handler(func=lambda msg: True)
 def handle_messages(message):
     try:
-        # Your message handling code
         pass
     except Exception as e:
         print(f"Erro ao processar mensagem: {e}")
