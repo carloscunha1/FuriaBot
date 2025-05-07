@@ -2,8 +2,8 @@
 
 # 🐍 FuriaBot
 
-**FuriaBot** é um bot do Telegram desenvolvido em **Python** que utiliza **Selenium** para monitorar partidas da equipe **FURIA** e enviar notificações automaticamente.
-Ele foi criado para fornecer atualizações em tempo real sobre os jogos da FURIA, facilitando o acompanhamento para os fãs.
+**FuriaBot** é um bot do Telegram desenvolvido em **Python** que utiliza **Selenium** para monitorar partidas da equipe **FURIA**.
+Ele foi criado para fornecer atualizações sobre os jogos da FURIA, facilitando o acompanhamento para os fãs.
 
 
 
@@ -53,7 +53,6 @@ cp config.example.py config.py
 * Edite o `config.py` com:
 
   * `TOKEN`: o token do seu bot
-  * `CHAT_ID`: o ID do chat onde as notificações serão enviadas
 
 ### 4. Executar o Bot
 
