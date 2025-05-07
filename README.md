@@ -1,11 +1,11 @@
----
+
 
 # 🐍 FuriaBot
 
 **FuriaBot** é um bot do Telegram desenvolvido em **Python** que utiliza **Selenium** para monitorar partidas da equipe **FURIA** e enviar notificações automaticamente.
 Ele foi criado para fornecer atualizações em tempo real sobre os jogos da FURIA, facilitando o acompanhamento para os fãs.
 
----
+
 
 ## 📁 Estrutura do Projeto
 
@@ -95,4 +95,3 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-Se quiser, posso gerar o `README.md` com esse conteúdo e o arquivo `LICENSE` com a MIT License prontos para adicionar ao seu repositório. Deseja isso?
